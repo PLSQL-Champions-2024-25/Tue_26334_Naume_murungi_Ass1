@@ -134,9 +134,28 @@ This project effectively uses SQL commands to manage a **Library Management Syst
 ---
 
 ## **📌 8. Screenshots of Query Outputs**  
-*(You will add screenshots of query outputs here.)*  
+
+![authortable](https://github.com/user-attachments/assets/bcfb2d1c-9eda-4880-a9f4-72f1205396e7)
+
+![bookstable](https://github.com/user-attachments/assets/3bdb4175-b542-4978-a971-3e690f5825ed)
+
+<img width="637" alt="rollbackandcommitCommand" src="https://github.com/user-attachments/assets/23c38fd5-5687-4ef6-9ae0-8237bc29514a" />
+
+![aurthorupdate](https://github.com/user-attachments/assets/f0fb467c-10b0-4f57-ab46-3fd09f6eef0d)
+
+![boorrowedbooksjoin](https://github.com/user-attachments/assets/43d1a3af-3f23-48bd-9cd5-98708a85115e)
+
+![retrieve](https://github.com/user-attachments/assets/e76aac5b-c02d-4871-bbf4-b9820fa78525)
+
+<img width="534" alt="Past7days" src="https://github.com/user-attachments/assets/d0ab628c-43a3-4a36-96f5-3157bfcc0983" />
 
 ---
+
+![borrowedbooksupdate](https://github.com/user-attachments/assets/ef422607-4e0f-49da-b09b-91d9dd76fb29)
+
+![borrowersupdate](https://github.com/user-attachments/assets/88d97c6d-e255-46ad-9f6a-10abe5ef4c50)
+
+![borrowedbooksdelete](https://github.com/user-attachments/assets/b9629c87-cfd4-4a5c-b08b-34d77e31145e)
 
 ## **📌 9. Conclusion**  
 The **Library Management System** database efficiently organizes **book inventory, author records, borrower information, and book borrowing details**. It ensures **data integrity, easy retrieval, and proper tracking of borrowed books**.
