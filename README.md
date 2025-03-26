@@ -165,8 +165,6 @@ The **Library Management System** database efficiently organizes **book inventor
 - **A book reservation system.**  
 - **Email notifications for due dates.**  
 
----
-
-  
+**Repository**: [https://github.com/PLSQL-Champions-2024-25/Tue_26334_Naume_murungi_Ass1]
 
 
